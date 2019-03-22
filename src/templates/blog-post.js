@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../components/layout';
 import Img from 'gatsby-image';
+import Metatags from '../components/Metatags';
 import { graphql } from 'gatsby';
 function BlogPost(props) {
     const post = props.data.markdownRemark;
