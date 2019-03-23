@@ -1,5 +1,5 @@
 ---
-title: "Athletics @ Dubbo"
+title: "State Multi Champliaonship @ Dubbo"
 description: This post is related to the gatsbyjs
 date: '2018-09-26'
 image: 'athletics-dubbo.jpg'
