@@ -1,5 +1,5 @@
 ---
-title: "Winning Entry for 2017 Easter Coloring Comp"
+title: "Won 1st Price in 2017 Easter Coloring Comp!"
 description: This post is related to the gatsbyjs
 date: '2018-09-26'
 image: 'ke-drawing-2018.png'
